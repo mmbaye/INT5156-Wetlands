@@ -24,9 +24,7 @@ Sentinel-2 (S2) is a high-resolution, wide-swath imaging mission that supports C
 
 The first step is to either load the shapefiles of the study area or manually enter the coordinates of the CRNS installation site. **Figure 1** shows the loading steps of the shapefiles of the area in Bolivia. The following code shows the predefined steps on top for visualization. 
 
-![image-20230131221358270](C:/Users/ceraas/AppData/Roaming/Typora/typora-user-images/image-20230131221358270.png)
 
-Fig.1: description of shapefile loading steps
 
 ````javascript
 /***********************************************************************************************************
